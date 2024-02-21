@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "João",
+    "ano_nascimento": 2004,
+    "notas": {
+      "n1": 7,
+      "n2": 5,
+      "n3": 4
+    }
+  },
+  {
+    "nome": "Maria",
+    "ano_nascimento": 2005,
+    "notas": {
+      "n1": 8,
+      "n2": 9,
+      "n3": 7
+    }
+  },
+  {
+    "nome": "José",
+    "ano_nascimento": 2000,
+    "notas": {
+      "n1": 3,
+      "n2": 6,
+      "n3": 7
+    }
+  },
+  {
+    "nome": "Ana",
+    "ano_nascimento": 2001,
+    "notas": {
+      "n1": 8,
+      "n2": 9,
+      "n3": 8
+    }
+  },
+  {
+    "nome": "Mateus",
+    "ano_nascimento": 2006,
+    "notas": {
+      "n1": 7,
+      "n2": 8,
+      "n3": 8
+    }
+  }
+]
